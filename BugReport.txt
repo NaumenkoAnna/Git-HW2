@@ -1,7 +1,7 @@
 Summary - "",
 Project - "",
 Component - "",
-Version   - "",
+Version  - "",
 Steps to Reproduce - "",
 Expected Result - "",
 Actual Result - "",
