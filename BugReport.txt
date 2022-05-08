@@ -1,0 +1,12 @@
+Summary - "",
+Project - "",
+Component - "",
+Version   - "",
+Steps to Reproduce - "",
+Expected Result - "",
+Actual Result - "",
+Prioriy   - "",
+Severity - "",
+Attachment  - "",
+Author  - "",
+Assigned - "".
