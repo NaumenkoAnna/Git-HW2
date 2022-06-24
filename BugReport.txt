@@ -1,5 +1,4 @@
 Summary - "",
-Project - "",
 Component - "",
 Version  - "",
 Steps to Reproduce - "",
